@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-shirt-store/static/css/main.e7dc4c3e.chunk.css",
+    "main.js": "/react-shirt-store/static/js/main.d462655a.chunk.js",
+    "main.js.map": "/react-shirt-store/static/js/main.d462655a.chunk.js.map",
+    "runtime-main.js": "/react-shirt-store/static/js/runtime-main.2c21a124.js",
+    "runtime-main.js.map": "/react-shirt-store/static/js/runtime-main.2c21a124.js.map",
+    "static/js/2.5244735b.chunk.js": "/react-shirt-store/static/js/2.5244735b.chunk.js",
+    "static/js/2.5244735b.chunk.js.map": "/react-shirt-store/static/js/2.5244735b.chunk.js.map",
+    "index.html": "/react-shirt-store/index.html",
+    "precache-manifest.9de9d4a0c3e3fb4bbda5e8fa259c5012.js": "/react-shirt-store/precache-manifest.9de9d4a0c3e3fb4bbda5e8fa259c5012.js",
+    "service-worker.js": "/react-shirt-store/service-worker.js",
+    "static/css/main.e7dc4c3e.chunk.css.map": "/react-shirt-store/static/css/main.e7dc4c3e.chunk.css.map",
+    "static/js/2.5244735b.chunk.js.LICENSE": "/react-shirt-store/static/js/2.5244735b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c21a124.js",
+    "static/js/2.5244735b.chunk.js",
+    "static/css/main.e7dc4c3e.chunk.css",
+    "static/js/main.d462655a.chunk.js"
+  ]
+}
