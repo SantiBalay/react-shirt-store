@@ -9,7 +9,6 @@ import dataProductos from '../data/data.json'
 
 import ProductoShowcase from './ProductoShowcase'
 import Header from './Header';
-
 import Nav from './Nav'
 
 
